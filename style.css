@@ -6,8 +6,11 @@ body {
   color: black;
   border-radius: 12px;
 }
-a {text-decoration: none;
+a {
+  text-decoration: none;
+  color: white;
 }
+
 .button:hover {
   background-color: black;
     color: white;
