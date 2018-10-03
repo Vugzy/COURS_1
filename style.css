@@ -8,7 +8,8 @@ body {
 }
 a {
   text-decoration: none;
-  color: white;
+  color: pink;
+  font-family: 'Futura'
 }
 
 .button:hover {
