@@ -3,8 +3,8 @@ body {
 }
 
 .button{
-  color: black;
-  border-radius: 12px;
+  color: purple;
+  border-radius: 10px;
 }
 a {
   text-decoration: none;
@@ -13,8 +13,8 @@ a {
 }
 
 .button:hover {
-  background-color: black;
-    color: white;
+  background-color: purple;
+    color: grey;
 }
 
 h1 {
@@ -68,12 +68,13 @@ td {padding: 5%; }
  }
 
 
- #fb{ color: blue;
-
+ #fb{ color: pink;
+  font-size: 50px;
  }
 
- #twitter{
-   color: cyan;
+ #instagram{
+   color: pink;
+   font-size: 50px;
  }
 
  #content3{
